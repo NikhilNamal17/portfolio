@@ -27,7 +27,7 @@ const IndexPage = () => {
         <Header.Title>Hi! I&rsquo;m Nikhil&nbsp;Namal.</Header.Title>
 
         <Header.Subtitle mb={3}>
-          I&rsquo;m a Full Stack Developer based in Mumbai, India
+          I&rsquo;m a full stack developer
           {/* <Link variant="ui-link" href="https://hiringsolved.com/">
             HiringSolved
           </Link> */}
