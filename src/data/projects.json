@@ -1,0 +1,22 @@
+[
+  {
+    "title": "PhotoGrid",
+    "date": "2019-04-22",
+    "description": "A React based Electron bootstrapped desktop app to change desktop wallpaper in one click.",
+    "repo": "https://github.com/NikhilNamal17/PhotoGrid"
+  },
+  {
+    "title": "Catch Of the day",
+    "date": "2019-02-14",
+    "description": "A React based online store for fresh seafood market.",
+    "website": "https://catch-of-the-day-nikhil.netlify.com/",
+    "repo": "https://github.com/NikhilNamal17/catch-of-the-day"
+  },
+  {
+    "title": "Popular Movie Quotes",
+    "date": "2019-10-1",
+    "description": "A simple NPM package to get popular movie quotes.",
+    "website": "https://www.npmjs.com/package/popular-movie-quotes",
+    "repo": "https://github.com/NikhilNamal17/popular-movie-quotes"
+  }
+]

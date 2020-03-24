@@ -1,0 +1,86 @@
+{
+  "name": "nikhil_namal",
+  "version": "3.0.0",
+  "description": "The website and portfolio of Nikhil Namal",
+  "scripts": {
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikhilNamal17/portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "frontend",
+    "design"
+  ],
+  "author": "Nikhil Namal",
+  "license": "MIT",
+  "homepage": "https://nikhilnamal.netlify.com",
+  "dependencies": {
+    "@mdx-js/mdx": "^1.5.5",
+    "@mdx-js/react": "^1.5.5",
+    "emotion-theming": "^10.0.27",
+    "gatsby": "^2.19.12",
+    "gatsby-image": "^2.3.0",
+    "gatsby-plugin-catch-links": "^2.1.25",
+    "gatsby-plugin-emotion": "^4.1.22",
+    "gatsby-plugin-fathom": "^1.2.0",
+    "gatsby-plugin-feed-mdx": "^1.0.1",
+    "gatsby-plugin-layout": "^1.1.22",
+    "gatsby-plugin-manifest": "^2.2.41",
+    "gatsby-plugin-mdx": "^1.0.70",
+    "gatsby-plugin-netlify": "^2.1.32",
+    "gatsby-plugin-preact": "^3.1.26",
+    "gatsby-plugin-react-helmet": "^3.1.22",
+    "gatsby-plugin-remove-serviceworker": "^1.0.0",
+    "gatsby-plugin-sharp": "^2.4.5",
+    "gatsby-plugin-sitemap": "^2.2.27",
+    "gatsby-remark-copy-linked-files": "^2.1.37",
+    "gatsby-remark-images": "^3.1.44",
+    "gatsby-remark-smartypants": "^2.1.21",
+    "gatsby-remark-widows": "^1.0.0",
+    "gatsby-source-filesystem": "^2.1.48",
+    "gatsby-transformer-json": "^2.2.26",
+    "gatsby-transformer-sharp": "^2.3.14",
+    "github-slugger": "^1.2.1",
+    "lowmess-prism": "^1.0.3",
+    "preact": "^10.3.1",
+    "preact-render-to-string": "^5.1.4",
+    "prism-react-renderer": "^1.0.2",
+    "prismjs": "^1.19.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-helmet": "^5.2.1",
+    "rebass": "^4.0.7",
+    "sanitize.css": "^11.0.0",
+    "unfetch": "^4.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-lowmess": "^3.2.2",
+    "husky": "^4.2.1",
+    "lint-staged": "^10.0.7",
+    "prettier": "^1.19.1",
+    "prettier-config-lowmess": "^0.1.1"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{js,jsx}": [
+      "eslint --fix",
+      "prettier --write",
+      "git add"
+    ],
+    "*.{json,css,md}": [
+      "prettier --write",
+      "git add"
+    ]
+  }
+}
