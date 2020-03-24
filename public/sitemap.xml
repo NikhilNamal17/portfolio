@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://nikhilnamal.netlify.com/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nikhilnamal.netlify.com/blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nikhilnamal.netlify.com/colophon/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nikhilnamal.netlify.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nikhilnamal.netlify.com/projects/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nikhilnamal.netlify.com/blog/a-better-album-ranking-algorithm/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nikhilnamal.netlify.com/blog/a-form-fitted-z-shell/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nikhilnamal.netlify.com/blog/customizing-tachyons/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nikhilnamal.netlify.com/blog/fetch-with-timeout/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nikhilnamal.netlify.com/blog/functional-first-accordions/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nikhilnamal.netlify.com/blog/no-red-squigglies-for-semicolons/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nikhilnamal.netlify.com/blog/on-declarative-styling/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>

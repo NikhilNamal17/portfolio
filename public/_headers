@@ -1,0 +1,131 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/commons-652c8223faa9c70cdf83.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-404-jsx-30314d2e7ee1d43f6ff5.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-about-jsx-ee287ff1b3b8667955ec.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-blog-jsx-0848696ebc2f60fb7b5b.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-colophon-jsx-c6e8c9983da31c090dd8.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-index-jsx-8d965c59b51a23aba1f0.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-projects-jsx-2071d864f5d83df34ca5.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-blog-a-better-album-ranking-algorithm-index-mdx-9ea231377164f5c21ce7.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-blog-a-form-fitted-z-shell-index-mdx-ba72cbd8610a54a926cc.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-blog-customizing-tachyons-index-mdx-904f4f0d252d61cd06ad.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-blog-fetch-with-timeout-index-mdx-4e5ff46ac778a918ab23.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-blog-functional-first-accordions-index-mdx-58dec18a6c36d4791634.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-blog-no-red-squigglies-for-semicolons-index-mdx-1e4abb55d2b18a92bc46.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-blog-on-declarative-styling-index-mdx-02cbcd66d26cacc47de0.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-7f057ab76526c2332872.js
+  Cache-Control: public, max-age=31536000, immutable
+/styles.f9097e17a74d6fe493dd.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-d7bca83241f8e3231f4d.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-849c33fb70df35abcf41.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/404/
+  Link: </webpack-runtime-7f057ab76526c2332872.js>; rel=preload; as=script
+  Link: </styles-d7bca83241f8e3231f4d.js>; rel=preload; as=script
+  Link: </app-849c33fb70df35abcf41.js>; rel=preload; as=script
+  Link: </commons-652c8223faa9c70cdf83.js>; rel=preload; as=script
+  Link: </component---src-pages-404-jsx-30314d2e7ee1d43f6ff5.js>; rel=preload; as=script
+/about/
+  Link: </webpack-runtime-7f057ab76526c2332872.js>; rel=preload; as=script
+  Link: </styles-d7bca83241f8e3231f4d.js>; rel=preload; as=script
+  Link: </app-849c33fb70df35abcf41.js>; rel=preload; as=script
+  Link: </commons-652c8223faa9c70cdf83.js>; rel=preload; as=script
+  Link: </component---src-pages-about-jsx-ee287ff1b3b8667955ec.js>; rel=preload; as=script
+/blog/
+  Link: </webpack-runtime-7f057ab76526c2332872.js>; rel=preload; as=script
+  Link: </styles-d7bca83241f8e3231f4d.js>; rel=preload; as=script
+  Link: </app-849c33fb70df35abcf41.js>; rel=preload; as=script
+  Link: </commons-652c8223faa9c70cdf83.js>; rel=preload; as=script
+  Link: </component---src-pages-blog-jsx-0848696ebc2f60fb7b5b.js>; rel=preload; as=script
+/colophon/
+  Link: </webpack-runtime-7f057ab76526c2332872.js>; rel=preload; as=script
+  Link: </styles-d7bca83241f8e3231f4d.js>; rel=preload; as=script
+  Link: </app-849c33fb70df35abcf41.js>; rel=preload; as=script
+  Link: </commons-652c8223faa9c70cdf83.js>; rel=preload; as=script
+  Link: </component---src-pages-colophon-jsx-c6e8c9983da31c090dd8.js>; rel=preload; as=script
+/
+  Link: </webpack-runtime-7f057ab76526c2332872.js>; rel=preload; as=script
+  Link: </styles-d7bca83241f8e3231f4d.js>; rel=preload; as=script
+  Link: </app-849c33fb70df35abcf41.js>; rel=preload; as=script
+  Link: </commons-652c8223faa9c70cdf83.js>; rel=preload; as=script
+  Link: </component---src-pages-index-jsx-8d965c59b51a23aba1f0.js>; rel=preload; as=script
+/projects/
+  Link: </webpack-runtime-7f057ab76526c2332872.js>; rel=preload; as=script
+  Link: </styles-d7bca83241f8e3231f4d.js>; rel=preload; as=script
+  Link: </app-849c33fb70df35abcf41.js>; rel=preload; as=script
+  Link: </commons-652c8223faa9c70cdf83.js>; rel=preload; as=script
+  Link: </component---src-pages-projects-jsx-2071d864f5d83df34ca5.js>; rel=preload; as=script
+/404.html
+  Link: </webpack-runtime-7f057ab76526c2332872.js>; rel=preload; as=script
+  Link: </styles-d7bca83241f8e3231f4d.js>; rel=preload; as=script
+  Link: </app-849c33fb70df35abcf41.js>; rel=preload; as=script
+  Link: </commons-652c8223faa9c70cdf83.js>; rel=preload; as=script
+  Link: </component---src-pages-404-jsx-30314d2e7ee1d43f6ff5.js>; rel=preload; as=script
+/blog/a-better-album-ranking-algorithm/
+  Link: </webpack-runtime-7f057ab76526c2332872.js>; rel=preload; as=script
+  Link: </styles-d7bca83241f8e3231f4d.js>; rel=preload; as=script
+  Link: </app-849c33fb70df35abcf41.js>; rel=preload; as=script
+  Link: </commons-652c8223faa9c70cdf83.js>; rel=preload; as=script
+  Link: </component---src-pages-blog-a-better-album-ranking-algorithm-index-mdx-9ea231377164f5c21ce7.js>; rel=preload; as=script
+/blog/a-form-fitted-z-shell/
+  Link: </webpack-runtime-7f057ab76526c2332872.js>; rel=preload; as=script
+  Link: </styles-d7bca83241f8e3231f4d.js>; rel=preload; as=script
+  Link: </app-849c33fb70df35abcf41.js>; rel=preload; as=script
+  Link: </commons-652c8223faa9c70cdf83.js>; rel=preload; as=script
+  Link: </component---src-pages-blog-a-form-fitted-z-shell-index-mdx-ba72cbd8610a54a926cc.js>; rel=preload; as=script
+/blog/customizing-tachyons/
+  Link: </webpack-runtime-7f057ab76526c2332872.js>; rel=preload; as=script
+  Link: </styles-d7bca83241f8e3231f4d.js>; rel=preload; as=script
+  Link: </app-849c33fb70df35abcf41.js>; rel=preload; as=script
+  Link: </commons-652c8223faa9c70cdf83.js>; rel=preload; as=script
+  Link: </component---src-pages-blog-customizing-tachyons-index-mdx-904f4f0d252d61cd06ad.js>; rel=preload; as=script
+/blog/fetch-with-timeout/
+  Link: </webpack-runtime-7f057ab76526c2332872.js>; rel=preload; as=script
+  Link: </styles-d7bca83241f8e3231f4d.js>; rel=preload; as=script
+  Link: </app-849c33fb70df35abcf41.js>; rel=preload; as=script
+  Link: </commons-652c8223faa9c70cdf83.js>; rel=preload; as=script
+  Link: </component---src-pages-blog-fetch-with-timeout-index-mdx-4e5ff46ac778a918ab23.js>; rel=preload; as=script
+/blog/functional-first-accordions/
+  Link: </webpack-runtime-7f057ab76526c2332872.js>; rel=preload; as=script
+  Link: </styles-d7bca83241f8e3231f4d.js>; rel=preload; as=script
+  Link: </app-849c33fb70df35abcf41.js>; rel=preload; as=script
+  Link: </commons-652c8223faa9c70cdf83.js>; rel=preload; as=script
+  Link: </component---src-pages-blog-functional-first-accordions-index-mdx-58dec18a6c36d4791634.js>; rel=preload; as=script
+/blog/no-red-squigglies-for-semicolons/
+  Link: </webpack-runtime-7f057ab76526c2332872.js>; rel=preload; as=script
+  Link: </styles-d7bca83241f8e3231f4d.js>; rel=preload; as=script
+  Link: </app-849c33fb70df35abcf41.js>; rel=preload; as=script
+  Link: </commons-652c8223faa9c70cdf83.js>; rel=preload; as=script
+  Link: </component---src-pages-blog-no-red-squigglies-for-semicolons-index-mdx-1e4abb55d2b18a92bc46.js>; rel=preload; as=script
+/blog/on-declarative-styling/
+  Link: </webpack-runtime-7f057ab76526c2332872.js>; rel=preload; as=script
+  Link: </styles-d7bca83241f8e3231f4d.js>; rel=preload; as=script
+  Link: </app-849c33fb70df35abcf41.js>; rel=preload; as=script
+  Link: </commons-652c8223faa9c70cdf83.js>; rel=preload; as=script
+  Link: </component---src-pages-blog-on-declarative-styling-index-mdx-02cbcd66d26cacc47de0.js>; rel=preload; as=script
