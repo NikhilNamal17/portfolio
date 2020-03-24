@@ -22,13 +22,6 @@ module.exports = {
       },
     },
     {
-      resolve: 'gatsby-source-filesystem',
-      options: {
-        name: 'images',
-        path: `${__dirname}/images/`,
-      },
-    },
-    {
       resolve: 'gatsby-plugin-mdx',
       options: {
         defaultLayouts: {
