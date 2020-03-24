@@ -1,10 +1,13 @@
-# lowmess.com
+# [portfolio](https://nikhilnamal.netlify.com)
+
+## Built with Gatsby.js 
+
 
 ## Installing
 
 ```bash
-git clone https://github.com/lowmess/lowmess.git
-cd lowmess
+git clone https://github.com/NikhilNamal17/portfolio.git
+cd portfolio
 npm i
 ```
 
