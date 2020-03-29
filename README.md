@@ -1,24 +1,16 @@
-# [portfolio](https://nikhilnamal.netlify.com)
+# Hello World :wave: <br> I'm [Nikhil Namal](https://nikhilnamal.netlify.com) :sunglasses:
+<br><br>
 
-## Built with Gatsby.js 
+### :wave: I'm social! <br>
+
+- :white_check_mark: **[Connect with me on LinkedIn](https://www.linkedin.com/in/nikhil-namal17).** <br>
+
+- :white_check_mark: **[Say Hi on Twitter](https://twitter.com/Nikhil17_namal).** <br>
+
+- :white_check_mark: **[Follow me on Instagram](https://www.instagram.com/nikhil_namal17/).** <br><br>
 
 
-## Installing
 
-```bash
-git clone https://github.com/NikhilNamal17/portfolio.git
-cd portfolio
-npm i
-```
 
-## Building
-
-```bash
-npm run build
-```
-
-## Developing
-
-```bash
-npm run start
-```
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
