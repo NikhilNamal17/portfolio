@@ -110,7 +110,7 @@ const Navigation = () => (
 
       <NavLink to="/projects/">Projects</NavLink>
 
-      <NavLink to="/blog/">Blog</NavLink>
+      {/* <NavLink to="/blog/">Blog</NavLink> */}
 
       <NavLink to="/about/">About</NavLink>
     </List>

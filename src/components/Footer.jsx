@@ -62,7 +62,7 @@ const Footer = ({ ...props }) => {
         alignItems="center"
         justifyContent={['center', 'center', 'space-between']}
       >
-        <Box sx={{ display: ['none', 'none', 'block'] }}>
+        {/* <Box sx={{ display: ['none', 'none', 'block'] }}>
           <Text as="span" mr={2}>
             From the blog:
           </Text>
@@ -70,7 +70,7 @@ const Footer = ({ ...props }) => {
           <ArrowLink fontWeight="bold" to={post.fields.slug}>
             {post.frontmatter.title}
           </ArrowLink>
-        </Box>
+        </Box> */}
 
         <List>
           <SocialLink href="https://twitter.com/Nikhil17_namal">
@@ -79,6 +79,10 @@ const Footer = ({ ...props }) => {
 
           <SocialLink href="https://github.com/NikhilNamal17">
             GitHub
+          </SocialLink>
+
+          <SocialLink href="https://www.linkedin.com/in/nikhil-namal17">
+            LinkedIn
           </SocialLink>
 
           <SocialLink href="https://bit.ly/nikhil-namal-resume">
