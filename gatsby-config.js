@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Nikhil Namal',
+    title: 'Portfolio | Nikhil Namal',
     description:
-      "Hi, I'm Nikhil Namal. I'm a full stack developer.  I like dabbling in various parts of development and like to learn about new technologies, make memes or simply play games in my free time.",
+      "Hi, I'm Nikhil Namal. I'm a full stack developer. I like dabbling in various parts of development and like to learn about new technologies, make memes or simply play games in my free time.",
     siteUrl: 'https://nikhilnamal.netlify.com',
   },
   plugins: [
